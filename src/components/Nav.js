@@ -1,9 +1,9 @@
 import React from 'react';
-import '../dist/output.css'
+import '../dist'
 
 function Nav({ currentPage, handlePageChange }) {
   return (
-    <h1 className="bg-night h-200 text-green-500 static top-0">Malia Yraguen</h1>
+    <h1 className="bg-night h-200 text-green-500">Malia Yraguen</h1>
     // <Navbar bg="light">
     //   <Container>
     //     <Navbar.Brand href="#home">MY</Navbar.Brand>
