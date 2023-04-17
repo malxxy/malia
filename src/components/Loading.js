@@ -1,6 +1,6 @@
 import React from "react";
 // import ReactLoading from "react-loading";
-import '../style/Loading.css';
+import '../dist/output.css'
 import { motion } from "framer-motion";
 
 const draw = {

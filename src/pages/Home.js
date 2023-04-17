@@ -1,5 +1,6 @@
 import React from 'react';
 import Type from '../components/Typewriter';
+import '../dist/output.css'
 
 function Home() {
     return (

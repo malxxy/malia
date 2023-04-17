@@ -5,6 +5,7 @@ import Portfolio from "../pages/Portfolio";
 import Contact from "../pages/Contact";
 import Nav from "./Nav";
 import Footer from "./Footer";
+import '../dist/output.css'
 
 // Logic to display page based on what tab user is in
 function PortfolioContainer() {

@@ -1,4 +1,5 @@
 import React from 'react';
+import '../dist/output.css'
 
 function Footer() {
   return (

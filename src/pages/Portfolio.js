@@ -1,5 +1,6 @@
 import React from 'react';
 import DisplayProjects from '../components/DisplayProjects';
+import '../dist/output.css'
 
 function Portfolio() {
   return (

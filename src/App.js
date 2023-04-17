@@ -1,6 +1,4 @@
 import PortfolioContainer from './components/PortfolioContainer';
-import './style/output.css';
-import './index.css'
 
 function App() {
   return (
