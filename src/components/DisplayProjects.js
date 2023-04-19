@@ -1,6 +1,5 @@
 import React from 'react';
 import Projects from './Projects';
-import '../dist/output.css'
 
 const projectInfo = {
   title: 'Blog for Content Creator',

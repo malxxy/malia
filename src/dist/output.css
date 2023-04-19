@@ -574,10 +574,6 @@ video {
   bottom: 0px;
 }
 
-.top-0 {
-  top: 0px;
-}
-
 .me-auto {
   -webkit-margin-end: auto;
           margin-inline-end: auto;

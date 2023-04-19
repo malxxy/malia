@@ -3,7 +3,7 @@ import Home from '../pages/Home'
 import About from "../pages/About";
 import Portfolio from "../pages/Portfolio";
 import Contact from "../pages/Contact";
-import Nav from "./Nav";
+import NavHome from "./Nav";
 import Footer from "./Footer";
 import '../dist/output.css'
 
@@ -28,7 +28,7 @@ function PortfolioContainer() {
   
     return (
       <div>
-        <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
+        <NavHome currentPage={currentPage} handlePageChange={handlePageChange} />
         {renderPage()}
 
         <Footer />
